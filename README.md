@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SemaIstek
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on developer
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning java and python.
+- 💞️ I’m looking to collaborate on developer.
 - 📫 
 
 <!---
