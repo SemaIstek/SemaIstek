@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SemaIstek
+- 👋 Hi, I’m Sema İstek
 - 👀 I’m interested in programming.
 - 🌱 I'm a participant of the PowerCoders.
 - 💞️ I’m looking to collaborate on developer.
