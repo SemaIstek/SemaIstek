@@ -43,8 +43,8 @@
 
 ### Popular Repositories:
 - [java_winter2021Turkish](https://github.com/SemaIstek/java_winter2021Turkish)
-- [Bootstrap-Project-1](https://github.com/SemaIstek/Bootstrap-Project-1)
-- [Parallax-Website](https://github.com/SemaIstek/Parallax-Website)
+- [Forecasting-Project](https://github.com/SemaIstek/forecasting-economic-loses)
+- [Personel-Project](https://github.com/SemaIstek/personel_project)
 
 ### Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=SemaIstek)
